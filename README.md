@@ -10,7 +10,7 @@ A second feature of the notebook is feature importance based on the logistic reg
 
 ## Observations
 
-Of the three mdoels tested, logistic regression performed the best. The other two models, nearest neighbors and decision tree, achieved 100% accuracy on the test data, heavily implying the models were overfitted after grid search. Logistic regression, meanwhile, attained a highly respectable 86%.
+Of the three models tested, logistic regression performed the best. The other two models, nearest neighbors and decision tree, achieved 100% accuracy on the test data, heavily implying the models were overfitted after grid search. Logistic regression, meanwhile, attained a highly respectable 86%.
 
 ## Future work
 
